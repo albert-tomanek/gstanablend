@@ -1,0 +1,3 @@
+[submodule "subprojects/libmu"]
+	path = subprojects/libmu
+	url = https://github.com/albert-tomanek/libmu
